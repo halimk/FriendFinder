@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/halimk/FriendFinder/issues"
   },
-  "homepage": "https://github.com/halimk/FriendFinder#readme"
+  "homepage": "https://github.com/halimk/FriendFinder#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2"
+  }
 }
